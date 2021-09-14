@@ -1,4 +1,4 @@
-# UnsplashDownloader-高效下载Unsplash图库
+# UnsplashDownloader-简单高效下载Unsplash图库
 图片质量：平均约3MB/张高清大图
 
 理论下载速度：1分钟/100张左右（与实际的网络速率有关）
